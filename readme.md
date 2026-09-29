@@ -1,5 +1,5 @@
 # Operació NordTec
-## Objectriu
+## Objectiu
 ### Desplegar, protegir i monitorarr la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
 ---
 ### Estat del projecte
