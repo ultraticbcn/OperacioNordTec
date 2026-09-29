@@ -31,9 +31,12 @@ git remote
 #### Com pujar els canvis a github
 Si no ho has fet mai, t'has de connectar al repositori, fent git remote add origin [adreça repositori]
 Després sempre s'haurien d'haver fet canvis amb add, fet el commit amb el comentari si en vols i finalment fem push dels canvis que conté el commit.
-
+#### Incidències
+No estaba a path git. Que he fet: Obrir Sysdm.cpl i afegir la carpeta bin de git a PATH
+Falta ortogràfica afegint el origin. Que he fet: Borrar origin fent git remote remove origin i tornar a fer la comanda d'afegir correctament.
 
 ### Dia 2
 ### Dia 3
 
+[https://github.com/ultraticbcn/OperacioNordTec](https://)
 
