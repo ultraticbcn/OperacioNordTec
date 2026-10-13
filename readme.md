@@ -7,13 +7,13 @@ Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tec
 ---
 
 ## Índex
-- [Estat del projecte](#estat-del-projecte)
-- [Arquitectura de xarxa](#arquitectura-de-xarxa)
-- [Configuracions](#configuracions)
-- [Diari del projecte](#diari-del-projecte)
-- [Incidències (+ solucions)](#incidències--solucions)
-- [Decisions tècniques](#decisions-tècniques)
-- [Reflexions tècniques](#reflexions-tècniques)
+[Estat del projecte](#estat-del-projecte)
+[Arquitectura de xarxa](#arquitectura-de-xarxa)
+[Configuracions](#configuracions)
+[Diari del projecte](#diari-del-projecte)
+[Incidències (+ solucions)](#incidències--solucions)
+[Decisions tècniques](#decisions-tècniques)
+[Reflexions tècniques](#reflexions-tècniques)
 
 ---
 
@@ -42,6 +42,7 @@ Pendent
 ---
 
 ## Diari del projecte
+
 #### **Dia 1**
 Coses a fer
 * Instal·lació de VisualStudio Code
@@ -68,12 +69,11 @@ He millorat bastant el readme.md i inclós nous apartats i estils.
 ### Dia 3
 
 ## Incidències (+ solucions)
-***Dia 1***
->@ultra244
+| Quan | Causa | Solució | Detectada per |
+| -------- | -------- | -------- | -------- |
+| Dia 1     | No estaba a path git     | Obrir Sysdm.cpl i afegir la carpeta bin de git a PATH     | @ultra244     |
+|      |      |      |      |
 
-No estaba a path git. Que he fet: Obrir Sysdm.cpl i afegir la carpeta bin de git a PATH
-Falta ortogràfica afegint el origin. 
-**Solució:** Borrar origin fent git remote remove origin i tornar a fer la comanda d'afegir correctament.
 
 ## Decisions tècniques
 Pendent
