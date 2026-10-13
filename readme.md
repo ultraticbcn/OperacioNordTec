@@ -2,28 +2,21 @@
 **Seguretat**
 ## Objectiu
 #### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
-## Índex
-[TOC]
+
 
 ## Estat del projecte
 
-:::danger
-**No fet** :x:
-- Pendent
+> [!CAUTION]
+> **No fet** :x:
+> - Pendent
 
-:::
+> [!WARNING]
+> **En construcció** :hourglass_flowing_sand:
+> - Pendent
 
-:::warning
-**En construcció** :hourglass_flowing_sand:
-- Pendent
-
-:::
-
-:::success
-**Fet** :white_check_mark:
-- Estructura readme.md
-
-:::
+> [!TIP]
+> **Fet** :white_check_mark:
+> - Estructura readme.md
 
 ## Arquitectura de xarxa
 Pendent de dissenyar
@@ -66,7 +59,7 @@ He millorat bastant el readme.md i inclós nous apartats i estils.
 No estaba a path git. Que he fet: Obrir Sysdm.cpl i afegir la carpeta bin de git a PATH
 Falta ortogràfica afegint el origin. 
 **Solució:** Borrar origin fent git remote remove origin i tornar a fer la comanda d'afegir correctament.
- 
+
 ## Decisions tècniques
 Pendent
 ## Reflexions tècniques
