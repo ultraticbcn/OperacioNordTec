@@ -1,29 +1,37 @@
-# Operació NordTec  Bernat Fuster
+# Operació NordTec — Bernat Fuster
 **Seguretat**
+
 ## Objectiu
-Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
+Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes.
+
+---
+
 ## Índex
-[Estat del projecte](https://github.com/ultraticbcn/OperacioNordTec/#estat-del-projecte)
-[Estat del projecte](#estat-del-projecte)
+- [Estat del projecte](#estat-del-projecte)
+- [Arquitectura de xarxa](#arquitectura-de-xarxa)
+- [Configuracions](#configuracions)
+- [Diari del projecte](#diari-del-projecte)
+- [Incidències (+ solucions)](#incidències--solucions)
+- [Decisions tècniques](#decisions-tècniques)
+- [Reflexions tècniques](#reflexions-tècniques)
+
+---
+
 ## Estat del projecte
 
-:::danger
-**No fet** :x:
-- Pendent
+> [!CAUTION]
+> **No fet** :x:
+> - Pendent
 
-:::
+> [!WARNING]
+> **En construcció** :hourglass_flowing_sand:
+> - Pendent
 
-:::warning
-**En construcció** :hourglass_flowing_sand:
-- Pendent
+> [!TIP]
+> **Fet** :white_check_mark:
+> - Estructura `readme.md`
 
-:::
-
-:::success
-**Fet** :white_check_mark:
-- Estructura readme.md
-
-:::
+---
 
 ## Arquitectura de xarxa
 Pendent de dissenyar
@@ -31,7 +39,7 @@ Pendent de dissenyar
 ## Configuracions
 Pendent
 
-
+---
 
 ## Diari del projecte
 #### **Dia 1**
@@ -73,5 +81,5 @@ Pendent
 Pendent
 
 
-[https://github.com/ultraticbcn/OperacioNordTec](https://)
 
+[https://github.com/ultraticbcn/OperacioNordTec](https://)
