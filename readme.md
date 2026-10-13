@@ -1,22 +1,29 @@
 # Operació NordTec  Bernat Fuster
 **Seguretat**
 ## Objectiu
-#### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
-
-
+Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
+## Índex
+[Estat del projecte](https://github.com/ultraticbcn/OperacioNordTec/#estat-del-projecte)
+[Estat del projecte](#estat-del-projecte)
 ## Estat del projecte
 
-> [!CAUTION]
-> **No fet** :x:
-> - Pendent
+:::danger
+**No fet** :x:
+- Pendent
 
-> [!WARNING]
-> **En construcció** :hourglass_flowing_sand:
-> - Pendent
+:::
 
-> [!TIP]
-> **Fet** :white_check_mark:
-> - Estructura readme.md
+:::warning
+**En construcció** :hourglass_flowing_sand:
+- Pendent
+
+:::
+
+:::success
+**Fet** :white_check_mark:
+- Estructura readme.md
+
+:::
 
 ## Arquitectura de xarxa
 Pendent de dissenyar
