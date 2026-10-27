@@ -1,7 +1,3 @@
----
-title: Operació NordTec — Bernat Fuster
-
----
 
 # Operació NordTec — Bernat Fuster
 **Seguretat**
