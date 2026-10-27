@@ -1,3 +1,8 @@
+---
+title: Operació NordTec — Bernat Fuster
+
+---
+
 # Operació NordTec — Bernat Fuster
 **Seguretat**
 
@@ -30,6 +35,8 @@ Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tec
 > [!TIP]
 > **Fet** :white_check_mark:
 > - Estructura `readme.md`
+> - netplan de: Firewall, Ubuntu Desk
+> - firewall .sh
 
 ---
 
@@ -67,7 +74,7 @@ Després sempre s'haurien d'haver fet canvis amb add, fet el commit amb el comen
 ### Dia 2
 He millorat bastant el readme.md i inclós nous apartats i estils.
 ### Dia 3
-
+He acabat els netplans del firewall i del ubuntu desk, implementat normes bàsiques del firewall i el forwarding.  comprovat amb ping 8.8.8.8 . Petits errors de sintaxsis als .yaml .
 ## Incidències (+ solucions)
 | Quan | Causa | Solució | Detectada per |
 | -------- | -------- | -------- | -------- |
